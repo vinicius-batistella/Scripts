@@ -4,6 +4,6 @@ Usage
 -----
 ```
 Error: Two string parameters required.
-echo "Usage: $0 <domain_to_search> <directory>"
-echo "Example: ./parse.sh @domain.com ../"
+Usage: $0 <domain_to_search> <directory>
+Example: ./parse.sh @domain.com ../
 ```
