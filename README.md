@@ -1,4 +1,4 @@
-# parser.sh
+# intel_parser.sh
 
 Usage
 -----
